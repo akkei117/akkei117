@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a B-Tech CSE 2nd year student enrolled in IES, IPS Academy Indore.<br>I am Currently learning Cross Platform Mobile Application Development.<br>Core team member GDGoC IPSA and Netryx club
+I am currently a B-Tech CSE 2nd year student enrolled in IES, IPS Academy Indore.<br>I am Currently learning Cross Platform Mobile Application Development.<br>Core team member GDGoC IPSA and Netryx club.
 
 
 ## 🌐 Socials:
