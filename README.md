@@ -32,12 +32,7 @@ I believe in **learning by building**, contributing to communities, and continuo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akkei117&show_icons=true&theme=dark&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=akkei117&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akkei117&layout=compact&theme=dark&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=akkei117&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="akkei117's GitHub Stats" />
 ---
 
 ## 🌐 Connect With Me
