@@ -1,4 +1,3 @@
-# About me
 # I'm Sanidhya Malviya
 
 🎓 **B.Tech CSE (2nd Year)** | IPS Academy, Indore  
