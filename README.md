@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Banner"/>
+</p>
+
 # I'm Sanidhya Malviya
 
 🎓 **B.Tech CSE (2nd Year)** | IPS Academy, Indore  
