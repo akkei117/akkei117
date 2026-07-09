@@ -5,19 +5,29 @@
 # I'm Sanidhya Malviya
 
 🎓 **B.Tech CSE (2nd Year)** | IPS Academy, Indore  
-📱 **Cross-Platform Mobile App Developer (Flutter)**  
-🌱 Learning scalable app architecture & backend integration  
+📱 **Ex Intern - Credit Samadhaan**  
 👥 Core Team Member @ GDGoC IPSA | Netryx Club  
 
 ---
 
 ## 🚀 About Me
 
-I'm a Computer Science undergraduate with a strong interest in **mobile application development** and **problem-solving**.  
-Currently focused on building **real-world Flutter apps**, improving **clean UI design**, and understanding **backend + database integration**.
+I'm a Computer Science undergraduate with a strong interest in **AI agents , LLM orchestration** and **problem-solving**.  
+Currently focused on building **real world AI agents** which aims in improving **productivity** and reducing **time required** and **humman efforts**.
 
 I believe in **learning by building**, contributing to communities, and continuously upgrading my technical skills.
 
+---
+## Experience
+
+### **SDE Intern** | **Credit Samadhaan**
+*May 2026 - July 2026*
+
+- Worked on development of a lifestyle app called **Raiseonic**.
+- Created LLM orchestration for generating production grade credit improvement plan.
+- Created a blog generating ai agent following the principles of AIO(Artificial Intelligence Optimization).
+- Following Git-based workflows, debugging issues, and writing clean, maintainable code.
+- Worked with opensource ai model(like Gemma4 Qwen3.5 , Lamma3 , Deepseek R1, KIMI , etc) and LLM inference tech(like Groq , LM flow , fireworks ai) for automating repetative tasks .
 ---
 
 ## 🌐 Connect With Me
@@ -37,7 +47,12 @@ I believe in **learning by building**, contributing to communities, and continuo
 
 
 # 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-5A67D8?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
 
 # ⚙️ Tools and Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,14 +60,17 @@ I believe in **learning by building**, contributing to communities, and continuo
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
  
 
 ## 📌 Current Focus
 
-- Advanced Flutter (state management, clean architecture)
-- Backend integration & authentication
-- Improving DSA using Python
-- Building production-ready projects
+- Optimized Orchestration
+- RAG , MCP
+- Deep agents
+- Building and deploying production-ready AI products
 
 ---
 
@@ -61,12 +79,7 @@ I believe in **learning by building**, contributing to communities, and continuo
 
 ![](https://nirzak-streak-stats.vercel.app/?user=akkei117&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkei117&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=akkei117&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 
 ---
 
