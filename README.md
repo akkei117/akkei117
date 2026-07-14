@@ -1,10 +1,9 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Banner"/>
 </p>
-
 # I'm Sanidhya Malviya
 
-🎓 **B.Tech CSE (3rd Year)** | IPS Academy, Indore  
+🎓 **B.Tech CSE (2nd Year)** | IPS Academy, Indore  
 📱 **Ex Intern - Credit Samadhaan**  
 👥 Core Team Member @ GDGoC IPSA | Netryx Club  
 
@@ -44,10 +43,13 @@ I believe in **learning by building**, contributing to communities, and continuo
   </a>
 </p>
 
-
+# >_ Language :
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
@@ -84,4 +86,3 @@ I believe in **learning by building**, contributing to communities, and continuo
 ---
 
 ⭐ *Always open to collaboration, learning, and building impactful projects.*
-
