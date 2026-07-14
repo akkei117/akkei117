@@ -35,6 +35,14 @@ I believe in **learning by building**, contributing to communities, and continuo
   <a href="https://www.linkedin.com/in/sanidhya-malviya-abb045373/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sanidhya%20Malviya-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://x.com/akkei17" target="_blank">
+    <img src="https://img.shields.io/badge/X-@akkei17-000000?style=flat&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://linktr.ee/sanidhyamalviya" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-sanidhyamalviya-43E55E?style=flat&logo=linktree&logoColor=white" />
+  </a>
 </p>
 
 <p>
