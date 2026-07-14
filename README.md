@@ -3,7 +3,7 @@
 </p>
 # I'm Sanidhya Malviya
 
-🎓 **B.Tech CSE (2nd Year)** | IPS Academy, Indore  
+🎓 **B.Tech CSE (3rd Year)** | IPS Academy, Indore  
 📱 **Ex Intern - Credit Samadhaan**  
 👥 Core Team Member @ GDGoC IPSA | Netryx Club  
 
