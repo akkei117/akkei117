@@ -88,12 +88,12 @@ I believe in **learning by building**, contributing to communities, and continuo
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanidhyamalviya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanidhya's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyamalviya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=akkei117&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanidhya's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkei117&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyamalviya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkei117&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 
