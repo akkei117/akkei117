@@ -87,10 +87,14 @@ I believe in **learning by building**, contributing to communities, and continuo
 ## 📊 GitHub Stats
 
 
-![](https://nirzak-streak-stats.vercel.app/?user=akkei117&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akkei117&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=akkei117&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanidhyamalviya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sanidhya's GitHub Stats" height="175"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanidhyamalviya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="175"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanidhyamalviya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ⭐ *Always open to collaboration, learning, and building impactful projects.*
