@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science undergraduate with a strong interest in **AI agents , LLM orchestration** and **problem-solving**.  
+I'm a Computer Science undergraduate with a strong interest in **AI agents , LLM orchestration , AI Applicatiom development** and **problem-solving**.  
 Currently focused on building **real world AI agents** which aims in improving **productivity** and reducing **time required** and **humman efforts**.
 
 I believe in **learning by building**, contributing to communities, and continuously upgrading my technical skills.
